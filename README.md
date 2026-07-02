@@ -6,7 +6,7 @@ A quick look at some side projects developed over the last few years.
 
 Web-based decision support system for the clinical management of patients with propionic acidemia (PA), developed in collaboration with the TransCOR research group at UPF. It includes visualization of key biomarkers, risk assessment calculators, and a cluster visualization tool. The latter presents the patient's trajectory over a clustered space, and allows to discover how similar patients were managed, providing novel insights for diseases with limited understanding.
 
-![Propionic acidemia](images/pa-platform.png)
+![Propionic Acidemia](images/pa-platform.png)
 
 ## [Traffic accident analysis in Catalonia (2025)](https://github.com/uripont/catalan-traffic-accident-analysis)
 
