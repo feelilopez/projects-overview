@@ -12,7 +12,7 @@ Web-based decision support system for the clinical management of patients with p
 
 Machine learning analysis aiming to predict mortality risk in catalan traffic accidents, developed in association with [Oriol Pont](https://github.com/uripont). Our approach combines exploratory data analysis, training and assessment of multiple machine learning models, and explainable AI techniques to understand which features matter most when predicting whether an accident will result in fatalities.
 
-![Traffic accident analysis](images/accident-analysis.png)
+![Accident analysis](images/accident-analysis.png)
 
 ## Mnemonize (2024)
 
